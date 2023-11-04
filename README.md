@@ -6,11 +6,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/douglas.rodriguessouza.39/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+556181064843)
 <br/><br/>
+<div align="center">
 
 ![d GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassouzars&show_icons=true&theme=radical)
 
-## Descrevendo um pouco sobre meus conhecimentos utilizados no dia a dia...
-## Linguagens
+</div>
+
+## Descrevendo um pouco sobre meus conhecimentos utilizados no dia a dia em...
+
+## ...Linguagens
+
 <div style="display: inline-block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -19,10 +24,13 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/><br/>
-
+<div align="center">
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglassouzars&langs_count=8)
- 
-## Framework's | Banco de Dados | Servidores | Sistemas Operacionais | Conteiner
+
+</div>
+
+## ...Framework's | Banco de Dados | Servidores | Sistemas Operacionais | Conteiner
 <div style='display: inline_block'>
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
