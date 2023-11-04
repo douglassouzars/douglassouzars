@@ -22,28 +22,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglassouzars&langs_count=8)
  
-## Framework
+## Framework's | Banco de Dados | Servidores | Sistemas Operacionais | Conteiner
 <div style='display: inline_block'>
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</div><br/>
-## Banco da Dados
-<div style='display: inline_block'>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-</div><br/>
-## Servidor
-<div style='display: inline_block'>
     <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</div><br/>
-## Sistemas Operacionais
-<div style='display: inline_block'>
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div><br/>
-## Conteiner
-<div style='display: inline_block'>
     <img align="center" alt="windows" src="https://badgen.net/badge/icon/docker?icon=docker&label" width="100px">
 </div><br/>
+
 
 
